@@ -1,16 +1,49 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Michael Steven Lozano Carretero
 
-<!--
-**MaicolLozano/MaicolLozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-Here are some ideas to get you started:
+## 💻 Desarrollador de Software | 🎓 Estudiante de Desarrollo de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Bienvenido a mi rincón de código! Soy un apasionado desarrollador colombiano 🇨🇴 que disfruta creando soluciones innovadoras y aprendiendo nuevas tecnologías.
+
+### 🚀 Mis Tecnologías
+
+```python
+tech_stack = {
+    "Frontend": ["HTML", "CSS", "Bootstrap"],
+    "Backend": ["Python", "Flask"],
+    "Database": ["SQL"],
+    "Version Control": ["Git", "GitHub"],
+}
+```
+
+### 🌟 Lo que encontrarás en mi perfil
+
+- 📚 Proyectos de práctica que muestran mi evolución
+- 🔓 Aplicaciones de código abierto
+- 🔒 Proyectos privados seleccionados
+- 💡 Soluciones creativas a problemas reales
+
+### 🎯 Objetivos Actuales
+
+- 🔍 En búsqueda activa de oportunidades laborales
+- 📈 Mejorando constantemente mis habilidades
+- 🌱 Aprendiendo nuevas tecnologías
+- 🤝 Abierto a colaboraciones
+
+### 📫 ¿Hablamos de código?
+
+¡Me encantaría conectar contigo! Si tienes una oportunidad laboral interesante o simplemente quieres charlar sobre desarrollo de software, ¡no dudes en contactarme!
+
+---
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+> "El código es como el humor: cuando tienes que explicarlo, es malo." - Cory House
+
+⭐️ From [Michael Steven Lozano](https://github.com/YOUR_GITHUB_USERNAME)
