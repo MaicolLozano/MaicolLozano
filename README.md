@@ -6,7 +6,7 @@
 
 ## 💻 Desarrollador de Software | 🎓 Estudiante de Desarrollo de Software
 
-¡Bienvenido a mi rincón de código! Soy un apasionado desarrollador colombiano 🇨🇴 que disfruta creando soluciones innovadoras y aprendiendo nuevas tecnologías.
+¡Bienvenido a mi Perfil de código! Soy un apasionado desarrollador colombiano 🇨🇴 que disfruta creando soluciones innovadoras y aprendiendo nuevas tecnologías.
 
 ### 🚀 Mis Tecnologías
 
