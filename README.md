@@ -40,10 +40,10 @@ tech_stack = {
 ---
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak]((https://github-readme-streak-stats.herokuapp.com/?user=MaicolLozano&theme=dark&hide_border=true))(https://git.io/streak-stats)
   
 </div>
 
-> "El código es como el humor: cuando tienes que explicarlo, es malo." - Cory House
+> Si supiéramos qué es lo que estamos haciendo, no se llamaría investigación, ¿verdad? - Albert Einstein
 
 ⭐️ From [Michael Steven Lozano](https://github.com/YOUR_GITHUB_USERNAME)
