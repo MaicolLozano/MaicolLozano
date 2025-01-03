@@ -78,11 +78,7 @@
 
 
 ---
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaicolLozano&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
+
 
 > "Si supiéramos qué es lo que estamos haciendo, no se llamaría investigación, ¿verdad?." - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
