@@ -49,7 +49,7 @@
 - 🌱 Aprendiendo nuevas tecnologías
 - 🤝 Abierto a colaboraciones
 
-### 📫 ¿Hablamos de código?
+### 📫 ¿Hablamos?
 
 ¡Me encantaría conectar contigo! Si tienes una oportunidad laboral interesante o simplemente quieres charlar sobre desarrollo de software, ¡no dudes en contactarme!
 
@@ -61,17 +61,9 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaicolLozano&layout=compact&theme=dark&hide_border=true)
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaicolLozano&show_icons=true&theme=dark&hide_border=true)
   
 </div>
 
-<div align="center">
-  
-  ### 👀 Contador de Visitas
-  
-  ![Visitor Count](https://profile-counter.glitch.me/MaicolLozano/count.svg)
-  
-</div>
 
 
 
