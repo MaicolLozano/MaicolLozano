@@ -75,3 +75,5 @@
 > "Si supiéramos qué es lo que estamos haciendo, no se llamaría investigación, ¿verdad?." - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ⭐️ From [Michael Steven Lozano](https://github.com/MaicolLozano)
+
+PD: Cambie mi nombre en las configuraciónes de git y poniendo mi nombre 
